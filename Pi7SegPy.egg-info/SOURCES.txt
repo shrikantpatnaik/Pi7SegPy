@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+Pi7SegPy.py
+README.rst
+setup.cfg
+setup.py
+Pi7SegPy.egg-info/PKG-INFO
+Pi7SegPy.egg-info/SOURCES.txt
+Pi7SegPy.egg-info/dependency_links.txt
+Pi7SegPy.egg-info/pbr.json
+Pi7SegPy.egg-info/requires.txt
+Pi7SegPy.egg-info/top_level.txt
